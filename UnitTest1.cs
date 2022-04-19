@@ -1,5 +1,3 @@
-#UnitTest1.cs
-
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PPLib;
 using System;
