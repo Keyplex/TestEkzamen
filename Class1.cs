@@ -18,7 +18,7 @@ namespace PPLib
         // метод считает сумму
         static public int Calculate(int a, int b)
         {
-            return a - b; // b = это 10%
+            return a - b; // b = это 5%, 10%, 15%
         }
     }
 }
