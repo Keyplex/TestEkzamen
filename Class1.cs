@@ -8,7 +8,7 @@ namespace PPLib
 {
     public class Program
     {
-        public static int Skidkaprozent(int a, int b, int c)
+        public static int Skidkaprozent(int a, int b, int c) // это проверка работает ли проценты 5,10,15.
         {
             int min = a;
             if (min > b) min = b;
